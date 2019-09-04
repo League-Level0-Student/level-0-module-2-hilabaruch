@@ -1,7 +1,7 @@
 //1. Make a variable to hold the X co-ordinate of the dot and set it to 50.
 
-void setup() {
-    size(800, 200);
+void setup() { 
+  size(800, 200); 
 }
 
 void draw() {
