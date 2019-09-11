@@ -1,5 +1,5 @@
  // 1. Create three integer variables to represent the x, y, and the size of the ellipse
-       
+        
     void setup() {
       // 2. Set the size of your sketch
     
