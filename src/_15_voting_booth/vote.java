@@ -9,10 +9,10 @@ if(old<18) {
 	JOptionPane.showMessageDialog(null," nobody cares what you think");
 }
 	if(old>18) {
-		JOptionPane.showInputDialog. (null," who the next president should be");
-}
-
-}}
+		JOptionPane.showInputDialog (" who the next president should be");
 }
 
 }
+}
+
+
